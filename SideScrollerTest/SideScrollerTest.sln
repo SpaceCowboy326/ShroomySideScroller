@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScrollerTest", "SideScrollerTest\SideScrollerTest\SideScrollerTest.csproj", "{3A79B69C-67D1-4472-86FB-1759711CFFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScrollerTestContent", "SideScrollerTest\SideScrollerTestContent\SideScrollerTestContent.contentproj", "{14E00A4E-20FF-4FE4-85A4-7CD38408B089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A79B69C-67D1-4472-86FB-1759711CFFFD}.Debug|x86.ActiveCfg = Debug|x86
+		{3A79B69C-67D1-4472-86FB-1759711CFFFD}.Debug|x86.Build.0 = Debug|x86
+		{3A79B69C-67D1-4472-86FB-1759711CFFFD}.Release|x86.ActiveCfg = Release|x86
+		{3A79B69C-67D1-4472-86FB-1759711CFFFD}.Release|x86.Build.0 = Release|x86
+		{14E00A4E-20FF-4FE4-85A4-7CD38408B089}.Debug|x86.ActiveCfg = Debug|x86
+		{14E00A4E-20FF-4FE4-85A4-7CD38408B089}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
